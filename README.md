@@ -1,3 +1,3 @@
-# docker-jenkins-integration-sample
+# Testing Jenkins & Docker Integration
 
 
